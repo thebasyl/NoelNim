@@ -17,11 +17,11 @@ TpyeScript, C++
 ## my stats:
 <details>
   <summary>stats</summary>
-<img align=left src=https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true
+<img align=left src=https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true/>
 </details>
 
 ## top languages:
 <details>
   <summary>languages</summary>
-https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&layout=compact&show_icons=true
+<img align=left src=https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&layout=compact&show_icons=true/>
 </details>

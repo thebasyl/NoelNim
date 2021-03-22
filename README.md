@@ -25,3 +25,16 @@ TpyeScript, C++
   <summary>languages</summary>
 <img align=left src=https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&layout=compact&show_icons=true/>
 </details>
+
+## contact:
+### discord:
+NoelNim#3874
+### email:
+noel@nimstad.com
+### website:
+<a href="https://www.datsmin.xyz">datsmin</a>
+
+<br>
+
+<a href="https://github.com/hampu07" style="text-align:center;">check out my friend</a>
+drink your milk and have a nice day!

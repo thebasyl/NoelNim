@@ -14,7 +14,6 @@ TpyeScript, C++
 - i want to contribute more
 - i want to be a better human
 
-other:
 ## my stats:
 <details>
   <summary>stats</summary>

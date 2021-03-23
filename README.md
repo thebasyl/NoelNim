@@ -16,6 +16,7 @@ TpyeScript, C++
 
 ## my stats:
 <img align=left src=https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true/>
+
 <img align=left src=https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&layout=compact&show_icons=true/>
 
 ## contact:

@@ -19,9 +19,7 @@ TpyeScript, C++
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true)
 </div>
 
-<div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&langs_count=10&layout=compact"</img>
 
 ## contact:
 ### discord:

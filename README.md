@@ -15,11 +15,9 @@ TpyeScript, C++
 - i want to be a better human
 
 ## my stats:
-<div align=center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true)
-</div>
+<img align=center src="https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true"/>
 
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&langs_count=10&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&langs_count=10&layout=compact"/>
 
 ## contact:
 ### discord:

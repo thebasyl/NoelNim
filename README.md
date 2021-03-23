@@ -15,18 +15,8 @@ TpyeScript, C++
 - i want to be a better human
 
 ## my stats:
-<details>
-  <summary>stats</summary>
 <img align=left src=https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true/>
-</details>
-<br>
-<br>
-
-## top languages:
-<details>
-  <summary>languages</summary>
 <img align=left src=https://github-readme-stats.vercel.app/api/top-langs/?username=NoelNim&layout=compact&show_icons=true/>
-</details>
 
 ## contact:
 ### discord:

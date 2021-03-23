@@ -19,7 +19,8 @@ TpyeScript, C++
   <summary>stats</summary>
 <img align=left src=https://github-readme-stats.vercel.app/api?username=NoelNim&show_icons=true/>
 </details>
-
+<br>
+<br>
 
 ## top languages:
 <details>

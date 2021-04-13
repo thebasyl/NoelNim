@@ -5,7 +5,7 @@
 <br>
 ### what am i working on?
 - i am working on my website: https://datsmin.xyz
-- i am working on my node js discord bot [no releases]
+- i am working on my node js discord bot: https://datsmin.xyz/bot
 - i am learning
 
 ### what are my goals for 2021?
